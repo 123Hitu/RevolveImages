@@ -20,7 +20,7 @@ class ViewController: UIViewController,UIScrollViewDelegate,UIPickerViewDataSour
    @IBOutlet var imageCollection:UICollectionView?
    @IBOutlet var labexIndex:UILabel?
    @IBOutlet var pickerView:UIPickerView?
-    
+    // This is Test
     var infiniteScrollingBehaviour: InfiniteScrollingBehaviour!
 
     var arrImages:NSArray = ["N1","N2","N3"];
